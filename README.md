@@ -22,7 +22,7 @@ psicológica — y no contra el nombre del archivo.
 | Ficha de producto (Retromag, SKU piloto) | Listo |
 | Motor de generación | Listo — calibrado con 90 días de Meta |
 | Compuerta de cumplimiento | Listo — 6 controles con veto |
-| Formato de salida | Pendiente |
+| Formato de salida | Listo |
 
 ## Aviso
 

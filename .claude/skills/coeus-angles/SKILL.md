@@ -34,7 +34,7 @@ del prompt de generación es el fallo clásico: siempre se cuela algo.
 | `03-producto/retromag.md` | **Listo.** Composición, declaraciones verificadas y prohibiciones. |
 | `04-motor.md` | **Listo.** Calibrado con 90 días reales de Meta. |
 | `05-compuerta.md` | **Listo.** Seis controles con derecho de veto. |
-| `06-salida.md` | Pendiente. |
+| `06-salida.md` | **Listo.** Once campos y ejemplo completo. |
 
 La compuerta es control de calidad, no asesoría legal. Detecta lo que sabemos
 que está mal y evita que se propague a escala; no sustituye la revisión de un
