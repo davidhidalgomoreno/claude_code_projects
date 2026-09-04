@@ -1,0 +1,32 @@
+n,slug_original,producto,angulo_orig,angulo_nuevo,momento,formato,motivo,confianza
+01,Obesidad dejado ser,FitRX,OBCS,EXCLUIDO,-,EDUC,Medicamento con prescripcion. Fuera del sistema por Real Decreto de publicidad. No entra en medias.,alta
+02,Melatonina siete duerme,Retromag,OBCS,ESCE,CONS,ESTA,Arranca con intentos previos fallidos: melatonina valeriana triptofano.,alta
+03,Despiertas siete manana,Retromag,OBCS,FRAG,CONS,PASO,Cinco magnesios para cinco cosas. Argumento de piezas que faltan.,alta
+04,Melatonina noches cinco,Retromag,OBCS,ESCE,CONS,ESTA,Haces todo lo que dicen y aun asi falla. Intento previo fallido por habitos.,media
+05,Probaste maca tribulus,Performan,OBCS,ESCE,CONS,EDUC,Si probaste maca o tribulus y no notaste diferencia.,alta
+06,No suplemento Instagram,Performan,OBCS,CRIT,FRIO,EDUC,Mira la etiqueta antes de comprar. Criterio de compra puro.,alta
+07,Ya viste Performan,Performan,OBCS,FRAG,RETG,TEST,Retargeting explicito. Angulo real: toca solo uno de tres factores.,alta
+08,Probaste isoflavonas algo,Mepausa,OBCS,FRAG,CONS,EDUC,Un solo ingrediente no puede cubrir seis frentes.,alta
+09,Anos categoria menopausia,Mepausa,OBCS,CRIT,CONS,EDUC,Composiciones que no aguantan escrutinio. Tu lees etiquetas.,alta
+10,Honesto por que hablo,Mepausa,OBCS,SILE,CONS,FUND,Llevan anos aguantando porque nadie les ofrecio nada serio.,media
+11,Ya viste MePausa,Mepausa,OBCS,ESCE,RETG,TEST,Retargeting explicito. Angulo real: ya probaste y no funciono.,alta
+12,Llevas anos probando,Rescanso,OBCS,ESCE,CONS,EDUC,Llevas anos probando cosas para dormir.,alta
+13,Meses durmiendo mal,Rescanso,OBCS,FALC,CONS,EDUC,Correccion de mecanismo: los ansioliticos apagan el sistema.,alta
+14,Ya viste descanso,Rescanso,OBCS,FALC,RETG,TEST,Retargeting explicito. Angulo real: la melatonina solo cubre la fase 1.,alta
+15,Honesto sobre descanso,Rescanso,OBCS,FALC,CONS,FUND,Lo que lo hace diferente es que no es melatonina.,alta
+16,Zapatillas trail ciento,Renergy,OBCS,COST,CONS,EBAD,Zapatillas 180 fisio 50 Renergy 35. Anclaje de gasto aceptado.,alta
+17,Mucha gente ve,Renergy,OBCS,FALC,RETG,TEST,Correccion de mecanismo: no activa tirando de lo que no tienes.,media
+18,Cafe magnesio omega,Renegen,OBCS,FRAG,CONS,EBAD,Tu stack actual no alcanza una capa concreta.,alta
+19,Ya viste Ren,Renergy/Renegen (verificar),OBCS,FALC,RETG,TEST,Retargeting. Angulo real: el descanso no repone lo consumido en meses.,media
+20,Si ya viste,Noestres,OBCS,FALC,RETG,TEST,Retargeting. Angulo real: calma no es sedacion.,alta
+21,Mucha gente piensa,Noestres,OBCS,FALC,RETG,TEST,Correccion de mecanismo: baja la estatica sin apagar.,media
+22,El problema comprar,Noestres,OBCS,COST,CONS,EBAD,Comprar por separado es gastar mas para conseguir la mitad.,alta
+23,Un sesenta al,NadTime,OBCS,COST,CONS,EBAD,Anclaje contra el cafe: 1.60 al dia.,alta
+24,La prueba que,NadTime,OBCS,ESCE,CONS,TEST,Responde al escepticismo invirtiendo la prueba: se nota al dejarlo.,media
+25,Ya viste algo,NadTime,OBCS,COST,RETG,TEST,Retargeting. Angulo real: el precio era el freno.,alta
+26,Voy ser directo,NadTime,OBCS,RETR,CONS,FUND,Reviso mis marcadores. Medir antes que vender. REVISAR: usa cifras de edad biologica del fundador sin verificacion externa.,media
+27,Se va palabra,Mepausa,PRIN,FRAG,CONS,EDUC,Cada bote va a un sintoma mientras la menopausia cambia cinco cosas.,alta
+28,Llevas tiempo callando,Performan,PRIN,SILE,CONS,TEST,Hay cosas que los hombres no cuentan ni a sus medicos.,alta
+29,Directo algo no claro,Performan,PRIN,SILE,CONS,FUND,Lo llevan callando demasiado tiempo normalizando algo que tiene respuesta.,alta
+30,Generacion madre aguanto,Mepausa,EXPA,GENE,CONS,EDUC,La generacion de tu madre aguanto porque no tenia otra opcion.,alta
+31,Si estas bien,Renegen,DDIA,VENT,FRIO,EDUC,MAL ETIQUETADO EN ORIGEN. No es dia a dia: es ventana de actuacion con margen.,alta
