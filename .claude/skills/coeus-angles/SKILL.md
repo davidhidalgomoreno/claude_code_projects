@@ -30,7 +30,7 @@ del prompt de generación es el fallo clásico: siempre se cuela algo.
 |---|---|
 | `01-taxonomia.md` | **Listo.** 11 ángulos, 3 ejes. Derivado de 61 anuncios reales. |
 | `data/remapeo-obcs.csv` | **Listo.** 31 anuncios históricos reetiquetados. |
-| `02-avatares.md` | Pendiente. Requiere decisión sobre avatares y momentos de consciencia. |
+| `02-avatares.md` | **Listo.** Avatar de Retromag, con restricción de claim verificada. |
 | `03-producto/retromag.md` | Pendiente. SKU piloto acordado. |
 | `04-motor.md` | Pendiente. Requiere calibración con export de Meta. |
 | `05-compuerta.md` | Pendiente. Bloqueante para uso en producción. |
@@ -60,7 +60,19 @@ Registrada para que el sistema no la herede en silencio:
    sal de alta absorción junto al bisglicinato, dos frases antes de atacar las
    formas baratas. Verificar contra fuente primaria de biodisponibilidad
    comparada y corregir el copy si se confirma.
-3. **Bloque §5 del calendario editorial** — diez datos de marca sin fuente
+3. **Declaración de sueño en anuncio vivo** — la microcopy de `COEUS Ad 1`
+   («Duerme del tirón desde la primera semana») es una declaración de
+   propiedades saludables sobre el sueño. Verificado contra el Reglamento (UE)
+   432/2012: el magnesio **no tiene declaración autorizada de sueño** en la UE;
+   sus territorios autorizados son sistema nervioso, función psicológica,
+   cansancio y fatiga, metabolismo energético, función muscular, equilibrio
+   electrolítico, huesos, dientes, división celular y síntesis proteica. La
+   única sustancia con declaración de sueño autorizada es la melatonina.
+   Añade además una atribución de velocidad de efecto. Elevar a asesoría legal.
+4. **«Más de 300 funciones»** en `COEUS Ad 6` — declaración general no
+   específica. Solo admisible acompañada de una declaración autorizada concreta
+   (art. 10.3 del Reglamento 1924/2006). Hoy va sola.
+5. **Bloque §5 del calendario editorial** — diez datos de marca sin fuente
    primaria localizada, entre ellos la caída de NAD+ del 65 %, la edad biológica
    del fundador y quién firma la dirección científica. Ninguno puede entrar en
    un creativo hasta resolverse.
