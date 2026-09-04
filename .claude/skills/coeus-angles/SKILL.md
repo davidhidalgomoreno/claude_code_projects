@@ -33,11 +33,12 @@ del prompt de generación es el fallo clásico: siempre se cuela algo.
 | `02-avatares.md` | **Listo.** Avatar de Retromag, con restricción de claim verificada. |
 | `03-producto/retromag.md` | **Listo.** Composición, declaraciones verificadas y prohibiciones. |
 | `04-motor.md` | Pendiente. Requiere calibración con export de Meta. |
-| `05-compuerta.md` | Pendiente. Bloqueante para uso en producción. |
+| `05-compuerta.md` | **Listo.** Seis controles con derecho de veto. |
 | `06-salida.md` | Pendiente. |
 
-**Hasta que exista `05-compuerta.md`, nada que salga de este sistema se publica
-sin revisión humana de cumplimiento normativo.**
+La compuerta es control de calidad, no asesoría legal. Detecta lo que sabemos
+que está mal y evita que se propague a escala; no sustituye la revisión de un
+profesional antes de publicar.
 
 ## Fuera de alcance
 

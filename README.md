@@ -21,7 +21,7 @@ psicológica — y no contra el nombre del archivo.
 | Avatares | Listo — un avatar, cinco territorios de dolor |
 | Ficha de producto (Retromag, SKU piloto) | Listo |
 | Motor de generación | Pendiente — requiere export de Meta |
-| Compuerta de cumplimiento | Pendiente — **bloqueante para producción** |
+| Compuerta de cumplimiento | Listo — 6 controles con veto |
 | Formato de salida | Pendiente |
 
 ## Aviso

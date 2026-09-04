@@ -1,0 +1,12 @@
+fecha,pieza,control,veredicto,hallazgo,accion
+2026-09-04,COEUS Ad 1 - Melatonina siete duerme,C3,VETO,"Microcopy 'Duerme del tirón desde la primera semana': declaración de sueño no autorizada",Retirar microcopy y cerrar en sistema nervioso
+2026-09-04,COEUS Ad 1 - Melatonina siete duerme,C6,REESCRIBE,"Velocidad de efecto: 'desde la primera semana'",Retirar
+2026-09-04,COEUS Ad 1 - Melatonina siete duerme,C6,REESCRIBE,"Contradicción: presenta el carbonato como sal de alta absorción dos frases antes de atacar las formas baratas",Revisar contra fuente de biodisponibilidad
+2026-09-04,COEUS Ad 1 - Melatonina siete duerme,C4,REESCRIBE,"'A la dosis que de verdad necesitas': dosis sin máximo AESAN confirmado",Retirar hasta verificar
+2026-09-04,COEUS Ad 2 - Por qué despierto,C3,REESCRIBE,"'El cuerpo no mantiene el sueño profundo por falta de magnesio' atribuye el sueño al magnesio",Reformular sobre sistema nervioso
+2026-09-04,COEUS Ad 2 - Por qué despierto,C3,REESCRIBE,"Microcopy 'La causa del despertar de madrugada' afirma causalidad",Reformular
+2026-09-04,COEUS Ad 5 - Despiertas siete mañana,C2,VETO,"Incluye digestión entre los cinco territorios",Sustituir digestión por tensión o foco
+2026-09-04,COEUS Ad 5 - Despiertas siete mañana,C6,REESCRIBE,"'Cinco magnesios distintos para cinco cosas distintas' sin respaldo documental",Pedir documentación al fabricante o suavizar
+2026-09-04,COEUS Ad 5 - Despiertas siete mañana,C4,REESCRIBE,"GMP y NSF sin certificado localizado. 'Formulado por médicos en España' sin nombres",Verificar o retirar
+2026-09-04,COEUS Ad 6 - Melatonina noches cinco,C6,REESCRIBE,"'Interviene en más de 300 funciones' suelto (art. 10.3)",Acompañar de declaración autorizada
+2026-09-04,COEUS Ad 6 - Melatonina noches cinco,C3,VETO,"'Sostiene el descanso profundo' y 'salud cardiovascular': ninguna de las dos tiene declaración autorizada de magnesio",Reformular sobre territorios autorizados
