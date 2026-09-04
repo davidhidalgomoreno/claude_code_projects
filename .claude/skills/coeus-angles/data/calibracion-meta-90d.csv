@@ -1,0 +1,22 @@
+dimension,valor,n_anuncios,gasto_eur,compras,roas,cpa,fiabilidad,lectura
+CUENTA,TOTAL,113,25340,619,1.18,40.94,alta,"AOV 48.32 EUR. La cuenta está cerca del punto de equilibrio en paid."
+SKU,RETROMAG,50,18787,496,1.23,37.88,alta,"74% de la inversión. Confirmado como producto estrella."
+SKU,MEPAUSA,26,4125,81,1.09,50.93,alta,
+SKU,NADTIME,23,1236,24,1.26,51.49,media,
+SKU,PERFORMAN,11,895,18,0.74,49.75,media,"Único SKU claramente por debajo de 1."
+TERRITORIO,VILLANO_MAGNESIO BARATO,11,4614,173,1.54,26.72,alta,"GANADOR. 70% de la inversión de Retromag parseada. Es territorio CRIT."
+TERRITORIO,PROBLEMAS PARA DORMIR,3,1259,34,1.36,37.03,media,"El sueño genérico sí funciona."
+TERRITORIO,VILLANO_MELATONINA,6,444,9,0.62,49.33,media,"Atacar a la melatonina rinde la mitad que atacar al magnesio barato."
+TERRITORIO,PROBLEMAS PARA DORMIR_DESPERTAR 3AM,10,165,2,0.43,82.40,baja,"10 anuncios y solo 165 EUR: Meta dejó de servirlos. La cifra de ROAS no es fiable, la falta de reparto sí."
+AVATAR,MUJER MEDIANA EDAD,25,4156,165,1.72,25.19,alta,"GANADOR claro."
+AVATAR,BIOHACKER,10,2461,56,0.92,43.95,alta,"Por debajo de 1 con gasto suficiente para creerlo."
+AWARENESS,Solution Aware,20,5143,184,1.45,27.95,alta,"GANADOR. Sabe que existen suplementos, no conoce el mecanismo."
+AWARENESS,Product Aware,2,1249,34,1.37,36.74,media,
+AWARENESS,Problem Aware,13,224,3,1.02,74.67,baja,"13 anuncios y 224 EUR. Describir el dolor sin más no se reparte."
+ESTRUCTURA,PROBLEM/SOLUTION,3,2175,119,2.25,18.28,media,"Mejor ROAS con gasto alto, pero lo sostiene un solo anuncio."
+ESTRUCTURA,TRANSFORMATION,2,1249,34,1.37,36.74,media,
+ESTRUCTURA,VIRAL,3,2219,52,0.96,42.67,media,"Gasto alto y ROAS por debajo de 1."
+ESTRUCTURA,REDDIT,3,240,2,0.25,120.10,baja,
+ESTRUCTURA,US VS THEM,3,110,1,0.25,109.60,baja,
+FORMATO,Video Ad,8,4509,172,1.57,26.22,alta,"El vídeo rinde un 41% más que el estático."
+FORMATO,Static Ad,26,2107,49,1.11,43.00,alta,

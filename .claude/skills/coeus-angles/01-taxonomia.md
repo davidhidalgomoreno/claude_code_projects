@@ -113,6 +113,20 @@ Sustituye al uso implícito de TOFU/MOFU/BOFU como si fueran ángulos.
 
 ## Nomenclatura de archivo
 
+⚠ **Actualizado con el export de 90 días.** La cuenta usa una segunda
+convención, posterior y mejor, que ya incorpora awareness y avatar:
+
+```
+JL018.1/26 _ Video Ad _ RETROMAG _ TOFU _ Solution Aware _ MUJER MEDIANA EDAD
+           _ VILLANO_MAGNESIO BARATO _ PROBLEM/SOLUTION _ Diego
+```
+
+Es la que rinde mejor (1,38 de ROAS frente a 1,02 de la del Content Grid) y la
+que usa el motor. El código de ángulo de este documento se inserta en el campo
+de territorio. Mapa completo en `04-motor.md`.
+
+### Convención antigua (Content Grid, se mantiene solo para el histórico)
+
 ```
 VID – MOMENTO – FORMATO – ÁNGULO – MesAA – slug
 ```

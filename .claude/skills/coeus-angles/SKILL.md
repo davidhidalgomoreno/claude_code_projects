@@ -32,7 +32,7 @@ del prompt de generación es el fallo clásico: siempre se cuela algo.
 | `data/remapeo-obcs.csv` | **Listo.** 31 anuncios históricos reetiquetados. |
 | `02-avatares.md` | **Listo.** Avatar de Retromag, con restricción de claim verificada. |
 | `03-producto/retromag.md` | **Listo.** Composición, declaraciones verificadas y prohibiciones. |
-| `04-motor.md` | Pendiente. Requiere calibración con export de Meta. |
+| `04-motor.md` | **Listo.** Calibrado con 90 días reales de Meta. |
 | `05-compuerta.md` | **Listo.** Seis controles con derecho de veto. |
 | `06-salida.md` | Pendiente. |
 

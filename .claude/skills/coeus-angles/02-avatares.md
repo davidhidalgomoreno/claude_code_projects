@@ -40,13 +40,18 @@ desconfía de la categoría. Lo que cambia es por qué síntoma entra. Por eso n
 se modelan cinco avatares sino un avatar con cinco puertas — y el argumento del
 producto es precisamente que las cinco dan a la misma habitación.
 
-Precisión dentro del territorio DESCANSO, porque tiene consecuencias de
-segmentación: es **insomnio de mantenimiento, no de conciliación**. El anuncio
-no dice «no consigues dormirte», dice *«te despiertas a las 3 de la mañana y ya
-no vuelves a dormir»*. Quien no consigue dormirse es otro comprador, con otra
-historia de fracaso — y con un producto de la casa que le habla mejor. Las 3 de
-la mañana son un activo literal en dos de los cuatro anuncios; no se sustituyen
-por «de madrugada» ni por «por la noche».
+Precisión dentro del territorio DESCANSO: es **insomnio de mantenimiento, no
+de conciliación**. Quien no consigue dormirse es otro comprador, con otra
+historia de fracaso y con otro producto de la casa que le habla mejor.
+
+⚠ **Corregido con datos de 90 días.** Escribí que «las 3 de la mañana son un
+activo». Los datos dicen lo contrario: el territorio `DESPERTAR 3AM` acumula 10
+anuncios y solo 165 € de reparto, con 2 compras. La cifra de ROAS (0,43) no es
+fiable con ese volumen, pero **el hecho de que Meta dejara de servirlos sí lo
+es**: 10 creatividades pidiendo entrega y el algoritmo dándoles el 2,5 % de lo
+que dio al territorio ganador. El sueño genérico (`PROBLEMAS PARA DORMIR`,
+1,36 de ROAS con 1.259 €) sí funciona. La especificidad de las 3 AM no.
+Ver `data/calibracion-meta-90d.csv`.
 
 ### Los cinco territorios de dolor
 
@@ -109,14 +114,18 @@ ha fallado. Un ángulo sin ancla de verificación no cierra.
 
 ### Inferencias no verificadas
 
-- **Edad 40+.** Se deduce de *«acabas pensando que es la edad»*. Sin confirmar.
-- **Ambos géneros.** Los cuatro anuncios se reparten entre dos talentos (Susana
-  y Diego), lo que sugiere segmentación por género. Sin confirmar qué rinde.
-- **Comprador de farmacia, no de tienda especializada.** Se deduce de *«pasas
-  por la farmacia»*.
+**Resuelto con datos de 90 días.** El avatar que convierte es **mujer de
+mediana edad**: 1,72 de ROAS con 4.156 € frente a 0,92 del avatar `BIOHACKER`
+con 2.461 €. Ambos con gasto suficiente para creerlo. El biohacker no es el
+comprador de Retromag por mucho que la categoría lo sugiera.
 
-Las tres se resuelven con el desglose demográfico del export de Meta. Hasta
-entonces son hipótesis de trabajo, no datos.
+**Su momento de consciencia queda confirmado:** `Solution Aware` rinde 1,45 con
+5.143 €, frente a 1,02 de `Problem Aware` con 224 € en 13 anuncios. Es
+exactamente la lectura del apartado anterior — no hay que enseñarle que tiene
+un problema, hay que enseñarle que compró la versión equivocada.
+
+Sin resolver: la edad exacta y el canal de compra habitual. El export no trae
+desglose demográfico.
 
 ---
 

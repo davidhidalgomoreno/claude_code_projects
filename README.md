@@ -20,7 +20,7 @@ psicológica — y no contra el nombre del archivo.
 | Remapeo del histórico | Listo — 31 anuncios |
 | Avatares | Listo — un avatar, cinco territorios de dolor |
 | Ficha de producto (Retromag, SKU piloto) | Listo |
-| Motor de generación | Pendiente — requiere export de Meta |
+| Motor de generación | Listo — calibrado con 90 días de Meta |
 | Compuerta de cumplimiento | Listo — 6 controles con veto |
 | Formato de salida | Pendiente |
 
