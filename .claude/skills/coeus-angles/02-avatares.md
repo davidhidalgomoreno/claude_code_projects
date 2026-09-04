@@ -26,36 +26,59 @@ Documentado literalmente en el copy servido:
 | Capa | Evidencia en anuncio |
 |---|---|
 | Farmacia | *«Pasas por la farmacia, pruebas melatonina, valeriana, triptófano»* |
-| Higiene del sueño | *«Habitación fría, cena temprano, luz roja, nada de pantallas»* |
+| Higiene del sueño (solo DESCANSO) | *«Habitación fría, cena temprano, luz roja, nada de pantallas»* |
 | Compensación | *«Al día siguiente tiras de café»* |
 | Resignación | *«Acabas pensando que es la edad»* |
 
 Las cuatro capas importan. Un ángulo que le proponga algo que ya está en esa
 lista se quema en el primer segundo.
 
-### El dolor, en su forma exacta
+### Un avatar, cinco puertas de entrada
 
-**Insomnio de mantenimiento, no de conciliación.** El anuncio no dice «no
-consigues dormirte»: dice *«te despiertas a las 3 de la mañana y ya no vuelves
-a dormir»*.
+El perfil psicológico es **uno solo**: ya lo intentó, falló, culpa a su edad y
+desconfía de la categoría. Lo que cambia es por qué síntoma entra. Por eso no
+se modelan cinco avatares sino un avatar con cinco puertas — y el argumento del
+producto es precisamente que las cinco dan a la misma habitación.
 
-Es una distinción de producto, no de matiz. Quien no consigue dormirse y quien
-se despierta de madrugada son dos compradores distintos, con dos historias de
-fracaso distintas y dos objeciones distintas. **Retromag habla al segundo.** Un
-ángulo dirigido al primero está hablando a la audiencia de otro producto.
+Precisión dentro del territorio DESCANSO, porque tiene consecuencias de
+segmentación: es **insomnio de mantenimiento, no de conciliación**. El anuncio
+no dice «no consigues dormirte», dice *«te despiertas a las 3 de la mañana y ya
+no vuelves a dormir»*. Quien no consigue dormirse es otro comprador, con otra
+historia de fracaso — y con un producto de la casa que le habla mejor. Las 3 de
+la mañana son un activo literal en dos de los cuatro anuncios; no se sustituyen
+por «de madrugada» ni por «por la noche».
 
-Las 3 de la mañana son un activo. Aparecen literalmente en dos de los cuatro
-anuncios. No se sustituyen por «de madrugada» ni por «por la noche».
+### Los cinco territorios de dolor
 
-### El racimo de síntomas
+Retromag no es un producto de sueño. Es un pentamagnesio que cubre cinco
+territorios, y el avatar los vive como cinco problemas sin relación entre sí.
+Reconocerlos como un solo sistema es el momento de mayor valor percibido del
+argumentario.
 
-Del COEUS Ad 5, que es el único que abre más allá del sueño:
+Tabla operativa completa en `data/territorios-retromag.csv`.
 
-descanso · mandíbula apretada · niebla mental · energía de la tarde · digestión
+| Territorio | Cómo lo dice el usuario | Riesgo de claim | Anuncios hoy |
+|---|---|---|---|
+| **DESCANSO** | *«Me despierto a las 3 y ya no vuelvo a dormir»* | **Alto** | 3 de 4 |
+| **FOCO** | *«Niebla mental. Leo un párrafo tres veces»* | Bajo | 0 |
+| **TENSIÓN** | *«Mandíbula apretada, me levanto con la cara cargada»* | Bajo | 0 |
+| **RENDIMIENTO** | *«A las 6 de la tarde ya no queda nada»* | Bajo | 0 |
+| **DIGESTIÓN** | *«Hinchazón, tránsito irregular»* | **Muy alto** | 1 de paso |
 
-Cinco síntomas que el avatar vive como cinco problemas sin relación entre sí.
-Reconocerlos como un solo sistema es el momento de mayor valor percibido de
-todo el argumentario, y hoy solo lo usa 1 de 4 anuncios.
+**La conclusión que ordena la producción:** los tres territorios con riesgo bajo
+son exactamente los tres que hoy tienen cero anuncios. La concentración en
+sueño no solo es estrecha comercialmente — es la parte cara del producto en
+términos regulatorios. Ampliar a FOCO, TENSIÓN y RENDIMIENTO abre mercado y
+baja riesgo a la vez.
+
+**Advertencia sobre la narrativa de las cinco sales.** El argumento *«cinco
+magnesios distintos para cinco cosas distintas»* (COEUS Ad 5) es una
+construcción de marketing, no un dato documentado. La ficha técnica declara la
+composición cuantitativa pero **no asigna función a cada sal**. La atribución
+bisglicinato→descanso, malato→energía, ATA Mg®→cognición, carbonato→digestión
+es convención de industria. Si alguien la cuestiona, hoy no hay nada que
+enseñar. Antes de que el motor la use como eje, hace falta documentación del
+fabricante o suavizar la formulación.
 
 ### El reencuadre de culpa
 
@@ -126,6 +149,17 @@ es la experiencia del usuario. Prometer que el producto lo resuelve, sí lo es.
 | Explicar diferencias de biodisponibilidad entre sales | Atribuir velocidad de efecto |
 | Citar la cantidad declarada y el %VRN | *«Interviene en más de 300 funciones»* como reclamo suelto |
 
+### Territorio por territorio
+
+| Territorio | Declaración autorizada disponible |
+|---|---|
+| FOCO | Contribuye a la función psicológica normal |
+| TENSIÓN | Funcionamiento normal del sistema nervioso · función muscular normal |
+| RENDIMIENTO | Ayuda a disminuir el cansancio y la fatiga · metabolismo energético normal · función muscular · equilibrio electrolítico |
+| DESCANSO | **Ninguna.** Se nombra el dolor, se cierra en sistema nervioso o fatiga |
+| DIGESTIÓN | **Ninguna, y riesgo añadido.** El carbonato y el hidróxido de magnesio son antiácidos y otras sales magnésicas actúan como laxantes osmóticos. Un mensaje digestivo puede empujar el producto a medicamento por función. **No generar en este territorio.** |
+
+
 Sobre esta última: las declaraciones generales no específicas solo se admiten
 acompañadas de una declaración autorizada concreta (art. 10.3 del Reglamento
 1924/2006). Sola, no.
@@ -156,11 +190,31 @@ Del eje ÁNGULO de `01-taxonomia.md`, ordenados por encaje:
 | `RETR` | Medio | Medir antes de suplementar. Requiere capa marca. |
 | `DDIA` `SILE` `GENE` `VENT` | Bajo | Sin evidencia de encaje en este SKU. No forzar. |
 
-**Hueco a cubrir:** de los 4 anuncios de Retromag, 3 atacan el sueño y 1 abre a
-multi-síntoma. Cero usan `CRIT`, que es el ángulo con mejor rendimiento
-orgánico conocido de la marca y el único que entra en frío sin hablar de dormir
-— lo que además lo hace **el ángulo más seguro de la lista en términos de
-declaraciones**.
+### Cruce ángulo × territorio
+
+El motor genera sobre la celda, no sobre el ángulo suelto. Celdas prioritarias,
+por combinar hueco de cobertura y riesgo bajo:
+
+| | FOCO | TENSIÓN | RENDIMIENTO | DESCANSO |
+|---|---|---|---|---|
+| `CRIT` | **1** | **3** | **2** | vía segura al sueño |
+| `ESCE` | **4** | 8 | **5** | saturado |
+| `FALC` | **6** | 9 | **7** | saturado |
+| `PUDO` | 10 | 11 | 12 | saturado |
+| `FRAG` | \- | \- | \- | usar en modo transversal: las cinco puertas |
+
+Las doce celdas numeradas están **todas vacías hoy**. Las cuatro primeras son
+el primer lote a producir.
+
+`FRAG` es el único ángulo que no pertenece a un territorio: su argumento es
+precisamente que los cinco son un sistema. Es el ángulo puente entre puertas y
+el que sostiene el posicionamiento de pentamagnesio frente a un magnesio
+cualquiera.
+
+**Hueco a cubrir:** 3 de los 4 anuncios de Retromag atacan el sueño, que es el
+único territorio sin declaración autorizada. Cero usan `CRIT`, que es el ángulo
+de mejor rendimiento orgánico conocido, el único que entra en frío sin hablar
+de dormir, y el más seguro de la lista en términos de declaraciones.
 
 ---
 
@@ -169,7 +223,8 @@ declaraciones**.
 Nada de esto está validado contra rendimiento. Al llegar el export de Meta hay
 que resolver, en este orden:
 
-1. ¿Rinde mejor el ángulo de sueño o el de multi-síntoma?
+1. ¿Qué territorio convierte mejor? Hoy solo hay datos de DESCANSO porque
+   es lo único que se ha servido. La comparación no existe todavía.
 2. ¿Segmenta el género o los dos talentos rinden igual?
 3. ¿Cuál es el rango de edad real de quien compra?
 4. ¿La microcopy de promesa de sueño está correlacionada con mejor CTR? Si lo

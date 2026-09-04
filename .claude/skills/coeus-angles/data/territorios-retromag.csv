@@ -1,0 +1,6 @@
+territorio,sintoma_usuario,sal_narrativa,claim_autorizado,vehiculo,riesgo,cobertura_paid,prioridad
+DESCANSO,"Me despierto a las 3 y ya no vuelvo a dormir",Bisglicinato,NINGUNO para sueño,"Cerrar en sistema nervioso o fatiga. Nunca prometer dormir.",ALTO,3 de 4 anuncios,Reformular
+FOCO,"Niebla mental. Leo un parrafo tres veces",ATA Mg (acetil taurinato),"Contribuye a la funcion psicologica normal",Magnesio + vitamina C,BAJO,0 anuncios,ALTA
+TENSION,"Mandibula apretada. Me levanto con la cara cargada",Bisglicinato,"Funcionamiento normal del sistema nervioso + funcion muscular normal",Magnesio,BAJO,0 anuncios,ALTA
+RENDIMIENTO,"A las 6 de la tarde ya no queda nada. Agujetas que no se van",Malato,"Disminuir cansancio y fatiga + metabolismo energetico + funcion muscular + equilibrio electrolitico",Magnesio + vitamina C,BAJO,0 anuncios,ALTA
+DIGESTION,"Hinchazon. Transito irregular",Carbonato,NINGUNO para digestion,"No usar. Riesgo anadido de medicamento por funcion.",MUY ALTO,1 mencion de paso,Excluir

@@ -72,7 +72,14 @@ Registrada para que el sistema no la herede en silencio:
 4. **«Más de 300 funciones»** en `COEUS Ad 6` — declaración general no
    específica. Solo admisible acompañada de una declaración autorizada concreta
    (art. 10.3 del Reglamento 1924/2006). Hoy va sola.
-5. **Bloque §5 del calendario editorial** — diez datos de marca sin fuente
+5. **Dosis diaria de magnesio** — Retromag declara 279,6 mg de magnesio
+   elemental por toma de 2 cápsulas (74,57 % VRN). El nivel máximo de ingesta
+   tolerable de la UE para magnesio **suplementario** de sales fácilmente
+   disociables se sitúa habitualmente en 250 mg/día, y los máximos nacionales
+   varían. No he podido confirmar el límite vigente que aplica AESAN en España.
+   Verificar antes de que ningún creativo use la dosis como argumento de venta
+   («a la dosis que de verdad necesitas», COEUS Ad 1).
+6. **Bloque §5 del calendario editorial** — diez datos de marca sin fuente
    primaria localizada, entre ellos la caída de NAD+ del 65 %, la edad biológica
    del fundador y quién firma la dirección científica. Ninguno puede entrar en
    un creativo hasta resolverse.
