@@ -18,8 +18,8 @@ psicológica — y no contra el nombre del archivo.
 |---|---|
 | Taxonomía de ángulos | Listo |
 | Remapeo del histórico | Listo — 31 anuncios |
-| Avatares | Pendiente |
-| Ficha de producto (Retromag, SKU piloto) | Pendiente |
+| Avatares | Listo — un avatar, cinco territorios de dolor |
+| Ficha de producto (Retromag, SKU piloto) | Listo |
 | Motor de generación | Pendiente — requiere export de Meta |
 | Compuerta de cumplimiento | Pendiente — **bloqueante para producción** |
 | Formato de salida | Pendiente |
